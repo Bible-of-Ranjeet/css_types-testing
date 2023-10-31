@@ -1,0 +1,34 @@
+* {
+    text-align: center;
+    background-color: beige;
+}
+
+.link {
+    font-size: 20px;
+}
+
+#a {
+    color: #99c089;
+    background-color: #27776c;
+}
+
+#b {
+    color: #27776c;
+    background-color: #99c089;
+}
+
+#c {
+    color: #b9593b;
+}
+
+#d {
+    color: #a11e9b;
+}
+
+#e {
+    color: #27776c;
+}
+
+#f {
+    color: #01bba2;
+}
